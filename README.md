@@ -56,7 +56,7 @@ Upload your images **directly into the root of the repository** — the same lev
 | File | Recommended dimensions | Notes |
 |---|---|---|
 | `hero.jpg` | 1200 × 1600px | Warm, lifestyle — mother/baby |
-| `story.jpg` | 900 × 1200px | Soft, candid, natural light |
+| `style.jpg` | 900 × 1200px | Soft, candid, natural light |
 | `product.jpg` | 800 × 1000px | Clean/white background |
 
 ### 3. Confirm image paths in `index.html`
@@ -66,7 +66,7 @@ Because images are at the root level, all `src` paths must reference them direct
 ```html
 <!-- Correct — root-level path -->
 <img src="hero.jpg" alt="Hero" />
-<img src="story.jpg" alt="Our Story" />
+<img src="style.jpg" alt="Our Story" />
 <img src="product.jpg" alt="Product" />
 
 <!-- Wrong — do NOT use a subfolder path -->

@@ -51,7 +51,7 @@ Place your images inside an `images/` folder in the same directory as `index.htm
 | File | Recommended dimensions | Notes |
 |---|---|---|
 | `images/hero.jpg` | 1200 × 1600px | Warm, lifestyle — mother/baby |
-| `style.jpg` | 900 × 1200px | Soft, candid, natural light |
+| `images/style.jpg` | 900 × 1200px | Soft, candid, natural light |
 | `images/product.jpg` | 800 × 1000px | Clean/white background |
 
 ### 3. Open in browser

@@ -1,6 +1,6 @@
 # Mumma First — Homepage
 
-> *Because every mother deserves to come first*
+> *Because every mother deserves to comfort and care*
 
 A premium, brand-first homepage for **Mumma First** — a motherhood support brand. Built with pure HTML, CSS, and minimal vanilla JavaScript. No frameworks. No dependencies beyond Google Fonts.
 

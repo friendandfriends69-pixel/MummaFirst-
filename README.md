@@ -30,7 +30,7 @@ mumma-first/
 ├── main.js          # Scroll animations, sticky nav
 ├── README.md        # This file
 ├── hero.jpg         # Hero section image (uploaded directly to root)
-├── story.jpg        # Brand story + problem section image
+├── style.jpg        # Brand story + problem section image
 └── product.jpg      # Featured product image
 ```
 
